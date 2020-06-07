@@ -1,6 +1,6 @@
 #### What do i have and What Is a Virtual Environment?
 
-Simple example of running python script in the virtual environment. Virtual environments help us to create and manage our project in the separate environments from the default location. In most Linux environments, Python is installed under /usr/local , and that’s where you would find the libraries.The main purpose of Python virtual environments is to create an isolated environment for Python projects. This means that each project can have its own dependencies, regardless of what dependencies every other project has. In our  example, we’d create a virtual environment and then run our file inside the environment. We're using Python 3 in our example.
+This is a simple example of running python script in the virtual environment. Virtual environments help us to create and manage our project in the separate environments from the default location. In most Linux environments, Python is installed under /usr/local , and that’s where you would find the libraries.The main purpose of Python virtual environments is to create an isolated environment for Python projects. This means that each project can have its own dependencies, regardless of what dependencies every other project has. In our  example, we’d create a virtual environment and then run our file inside the environment. We're using Python 3 in our example.
 
 #### Let's get started
 
