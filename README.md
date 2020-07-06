@@ -2,7 +2,7 @@
 
 This is a simple example of running python script in the virtual environment. Virtual environments help us to create and manage our project in the separate environments from the default location. In most Linux environments, Python is installed under /usr/local , and that’s where you would find the libraries.The main purpose of Python virtual environments is to create an isolated environment for Python projects. This means that each project can have its own dependencies, regardless of what dependencies every other project has. In our  example, we’d create a virtual environment and then run our file inside the environment. We're using Python 3 in our example.
 
-#### Let's get started
+### Let's get started
 
 You’ll need to install the virtualenv tool with pip if you’re not using Python 3. In our case we're using Python 3, then we don't need to install since we already have the venv module from the standard library installed. But below is a simple command we could use should we have different version.
 ```
